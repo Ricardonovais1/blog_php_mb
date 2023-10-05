@@ -29,4 +29,25 @@
       'tags' => ['programação', 'PHP', 'lógica de programação'],
       'img' => 'prog-4.jpg'
     ],
+    [
+      'id' => 5,
+      'title' => 'Programando em PHP',
+      'description' => 'Neste post você vai aprender tudo que precisa para ser um bom programador de PHP!',
+      'tags' => ['programação', 'PHP', 'lógica de programação'],
+      'img' => 'prog-4.jpg'
+    ],
+    [
+      'id' => 6,
+      'title' => 'Programando em PHP',
+      'description' => 'Neste post você vai aprender tudo que precisa para ser um bom programador de PHP!',
+      'tags' => ['programação', 'PHP', 'lógica de programação'],
+      'img' => 'prog-4.jpg'
+    ],
+    [
+      'id' => 7,
+      'title' => 'Programando em PHP',
+      'description' => 'Neste post você vai aprender tudo que precisa para ser um bom programador de PHP!',
+      'tags' => ['programação', 'PHP', 'lógica de programação'],
+      'img' => 'prog-4.jpg'
+    ],
   ];
